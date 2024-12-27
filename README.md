@@ -38,7 +38,5 @@ Make sure you have the following installed on your machine:
 
 ### Steps to Run Locally
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/<your-github-username>/accernity.git
-   cd accernity
+
+  
